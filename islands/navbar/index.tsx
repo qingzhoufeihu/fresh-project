@@ -7,6 +7,9 @@ export default function NavBar() {
           <a href="/prducts" className="ml-6 mt-4">
             Products
           </a>
+          <a href="/about" className="ml-6 mt-4">
+            About
+          </a>
         </div>
       </div>
       <div className="flex-none">
